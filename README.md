@@ -19,7 +19,9 @@ Mô tả ứng dụng
     <td><img src="/Photos/thongbao.jpg" width="300"></td>
     <td><img src="/Photos/delete.jpg" width="300"></td>
   </tr>
-  <img src="/Photos/select.jpg" width="300">
+  <tr>
+    <td><img src="/Photos/select.jpg" width="300"></td>
+  </tr>
 </table>
 
 - Mode Dack
